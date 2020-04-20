@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+@import url("components/banner.css");
+@import url("components/transition.css");
+@import url("components/container.css");
+@import url("components/tv-division.css");
+@import url("components/download-division.css");
+@import url("components/device-division.css");
+@import url("components/faq.css");
+@import url("components/footer.css");
+
+h1, h2 {
+	font-family : 'Roboto', sans-serif;
+    font-weight:bold;
+    color: white;
+}
+
+h1{
+    font-weight: 700;
+    font-size: 50px;
+}
+h2 {
+    font-weight: 400;
+    font-size: 26px;
+}
+

@@ -1,0 +1,41 @@
+
+/* IMAGE DE FOND */
+.banner {
+    background-image:linear-gradient(0deg, rgba(0,0,0,0.8) 30%, rgba(0,0,0,0.3)70%, rgba(0,0,0,0.8)), url(../../images/banner.jpg);
+	color:white;
+	background-size:cover;
+	background-position:center;
+    text-align: center;
+    padding: 10px 40px 150px 40px;
+    height: ;
+}
+
+/* ESPACEMENT HEADER */
+.header {
+    display : flex;
+    justify-content: space-between;
+
+}
+
+/* LOGO NETFLIX */
+.logo {
+    height: 10%;
+    width: 10%;
+    
+}
+
+/* BOUTON IDENTIFIER */
+.identifier {
+    margin-top: 40px;
+    margin-bottom: 45px;
+}
+    
+
+
+
+/* FORMULAIRE E-MAIL */
+.b-content-center-width-640px {
+    margin: auto;
+    max-width: 640px;
+}
+

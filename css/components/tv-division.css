@@ -1,0 +1,30 @@
+#TV {
+    padding: 70px 45px;
+    position: relative;
+    margin: auto;
+}
+
+/* LARGEUR MAX */
+.max-width {
+    max-width: 595px
+}
+
+.tv{
+    width: 90%;
+
+}
+/* POSITION VIDEO */
+.video {
+    position:absolute; 
+    top:21%;
+    left:50%;
+    z-index: 2;
+}
+
+.tvimg {
+    z-index: 1;
+}
+
+
+
+

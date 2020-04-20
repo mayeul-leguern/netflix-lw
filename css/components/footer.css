@@ -1,0 +1,91 @@
+/* MISE EN FORME TABLEAU FOOTER */
+.col-md-3 {
+    color: rgb(117,117,117);
+    font-size: 16px;
+
+}
+
+.col-md-3 ul {
+    list-style: none;
+}
+
+.col-md-3 li {
+    margin-bottom: 15px;
+    margin-right: 0px;
+}
+
+.col-md-3 a:hover {
+    list-style: underline;
+}
+
+
+
+/* MISE EN FORME CONTACTEZ-NOUS */
+.contact p {
+    font-size: 20px;
+    color: rgb(117,117,117);
+    padding-left: 40px;
+}
+
+.contact li:hover {
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+.contact {
+    padding-left: 12.5%;
+    padding-right: 12.5%;
+}
+
+
+
+/* BOUTON SELECTION DU LANGUAGE */
+.language-selection {
+    opacity: 0;
+    flex-direction: column;
+}
+
+.language button:focus + div {
+    opacity: 1;
+}
+
+.language-selection p {
+    font-size: 15px;
+    margin: 0 auto;
+    color: rgb(117,117,117)
+}
+
+.language-selection p:hover {
+    background-color: blue;
+    color: white;
+}
+
+.language h1 {
+    color: rgb(117,117,117);
+    font-size: 15px;
+    font-weight: lighter;
+    margin: auto;
+}
+
+.language svg {
+    color: rgb(117,117,117)
+}
+
+.language {
+    width: 280px;
+    height: 50px;
+    background-color: transparent;
+    border-radius: 5px;
+    display: flex;
+    justify-content: space-between;
+    margin-left: 20px;
+    margin-bottom: 40px;
+    margin-top: 12.5px;
+}
+
+
+#netflix-france p {
+    font-size: 20px;
+}
+
+

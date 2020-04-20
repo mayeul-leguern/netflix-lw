@@ -1,0 +1,32 @@
+.gb-div {
+    width: 100%;
+    height: 100%;
+    max-width: 73%;
+    max-height: 54%;
+    position: absolute;
+    top: 46%;
+    left: 50%;
+    transform: translate(-50.5%, -46%);
+}
+
+.gb-video {
+    width: 52%;
+    height: 67%;
+    transform: translate3d(80%, -6%, 10px);
+}
+
+.image-fond {
+    position: relative;
+    z-index: 2;
+}
+
+.form-control{
+    width: 500px;
+       border-radius: 0px;
+       display: inline-block;
+       height: 65px;
+       margin-left: 0px;
+       font-size: 25px;
+       vertical-align: middle;
+   
+   }
